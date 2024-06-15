@@ -1,0 +1,9 @@
+package main
+import ("fmt")
+
+func main(){
+  var name string = "vijayasharma"
+  var x := 2 ////type is inferred
+  fmt.Println(name)
+  fmt.Println(x)
+  }
